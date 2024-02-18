@@ -1,0 +1,7 @@
+C:\Users\Aliev\OneDrive\Рабочий стол\HotelWebPortal\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal\obj\Release\net6.0\PubTmp\Out\Hotel.WebPortal.exe
+C:\Users\Aliev\OneDrive\Рабочий стол\HotelWebPortal\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Aliev\OneDrive\Рабочий стол\HotelWebPortal\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\Aliev\OneDrive\Рабочий стол\HotelWebPortal\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal\obj\Release\net6.0\PubTmp\Out\Hotel.WebPortal.dll
+C:\Users\Aliev\OneDrive\Рабочий стол\HotelWebPortal\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal\obj\Release\net6.0\PubTmp\Out\Hotel.WebPortal.deps.json
+C:\Users\Aliev\OneDrive\Рабочий стол\HotelWebPortal\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal\obj\Release\net6.0\PubTmp\Out\Hotel.WebPortal.runtimeconfig.json
+C:\Users\Aliev\OneDrive\Рабочий стол\HotelWebPortal\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal\obj\Release\net6.0\PubTmp\Out\Hotel.WebPortal.pdb

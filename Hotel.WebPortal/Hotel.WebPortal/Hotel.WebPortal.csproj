@@ -6,4 +6,15 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Remove="Views\Новая папка1\**" />
+    <Content Remove="Views\Новая папка1\**" />
+    <EmbeddedResource Remove="Views\Новая папка1\**" />
+    <None Remove="Views\Новая папка1\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\userFiles\" />
+  </ItemGroup>
+
 </Project>

@@ -1,0 +1,463 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAdQ7bDPheZEqKcdS4ZgbuYgAAAAACAAAAAAAQZgAAAAEAACAAAAD21AIAZtnY3t9qPpDRHKqPgpyOyL4+uV+nPTS34vs64QAAAAAOgAAAAAIAACAAAACtV4P/Ju52Q3D0EYC3hEwLxI+HVmuuLIq3qO3dHhUuPiAAAAAZwiqqAub/F9ZQ3ADdeTUuV2+q/ClqeivD2FnMJ9PWl0AAAABEfa/mN0MeEi5RNwOVUynzGwciUXuIlYgirEc5s3/bSvXyVyofK+ftAiB3d12xBbiNz2C7mz6P9zKnE0M5XiRW</EncryptedPassword>
+    <_PublishTargetUrl>ftp://178.89.186.221/sagyndykova.satbayevproject.kz</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="appsettings.Development.json">
+      <publishTime>01/31/2024 14:07:18</publishTime>
+    </File>
+    <File Include="appsettings.json">
+      <publishTime>01/31/2024 14:07:18</publishTime>
+    </File>
+    <File Include="Hotel.WebPortal.deps.json">
+      <publishTime>02/14/2024 08:16:28</publishTime>
+    </File>
+    <File Include="Hotel.WebPortal.dll">
+      <publishTime>02/14/2024 08:16:27</publishTime>
+    </File>
+    <File Include="Hotel.WebPortal.exe">
+      <publishTime>02/14/2024 08:16:27</publishTime>
+    </File>
+    <File Include="Hotel.WebPortal.pdb">
+      <publishTime>02/14/2024 08:16:27</publishTime>
+    </File>
+    <File Include="Hotel.WebPortal.runtimeconfig.json">
+      <publishTime>02/14/2024 08:16:29</publishTime>
+    </File>
+    <File Include="web.config">
+      <publishTime>02/14/2024 08:16:31</publishTime>
+    </File>
+    <File Include="wwwroot/css/animate.css">
+      <publishTime>06/08/2018 14:14:34</publishTime>
+    </File>
+    <File Include="wwwroot/css/bootstrap.min.css">
+      <publishTime>06/08/2018 14:14:35</publishTime>
+    </File>
+    <File Include="wwwroot/css/font-awesome.min.css">
+      <publishTime>06/08/2018 14:14:35</publishTime>
+    </File>
+    <File Include="wwwroot/css/magnific-popup.css">
+      <publishTime>06/08/2018 14:14:35</publishTime>
+    </File>
+    <File Include="wwwroot/css/material-design-iconic-font.css">
+      <publishTime>06/08/2018 14:14:36</publishTime>
+    </File>
+    <File Include="wwwroot/css/material-design-iconic-font.min.css">
+      <publishTime>06/08/2018 14:14:36</publishTime>
+    </File>
+    <File Include="wwwroot/css/meanmenu.min.css">
+      <publishTime>06/08/2018 14:14:36</publishTime>
+    </File>
+    <File Include="wwwroot/css/owl.carousel.css">
+      <publishTime>06/08/2018 14:14:37</publishTime>
+    </File>
+    <File Include="wwwroot/css/owl.video.play.png">
+      <publishTime>07/04/2018 17:03:33</publishTime>
+    </File>
+    <File Include="wwwroot/css/responsive.css">
+      <publishTime>06/08/2018 14:14:37</publishTime>
+    </File>
+    <File Include="wwwroot/css/shortcode/default.css">
+      <publishTime>06/08/2018 15:03:57</publishTime>
+    </File>
+    <File Include="wwwroot/css/shortcode/footer.css">
+      <publishTime>06/08/2018 15:03:57</publishTime>
+    </File>
+    <File Include="wwwroot/css/shortcode/header.css">
+      <publishTime>06/08/2018 15:03:57</publishTime>
+    </File>
+    <File Include="wwwroot/css/shortcode/shortcodes.css">
+      <publishTime>06/08/2018 15:03:58</publishTime>
+    </File>
+    <File Include="wwwroot/css/shortcode/slider.css">
+      <publishTime>06/08/2018 15:03:58</publishTime>
+    </File>
+    <File Include="wwwroot/css/slick.css">
+      <publishTime>06/08/2018 14:14:37</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/fontawesome-webfont3e6e.eot">
+      <publishTime>06/08/2018 14:14:40</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/fontawesome-webfont3e6e.svg">
+      <publishTime>06/08/2018 14:14:42</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/fontawesome-webfont3e6e.ttf">
+      <publishTime>06/08/2018 14:14:42</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/fontawesome-webfont3e6e.woff">
+      <publishTime>06/08/2018 14:14:42</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/fontawesome-webfont3e6e.woff2">
+      <publishTime>06/08/2018 14:14:42</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/fontawesome-webfontd41d.eot">
+      <publishTime>06/08/2018 14:14:40</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/glyphicons-halflings-regular.eot">
+      <publishTime>07/04/2018 17:03:27</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/glyphicons-halflings-regular.svg">
+      <publishTime>07/04/2018 17:03:27</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>07/04/2018 17:03:27</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/glyphicons-halflings-regular.woff">
+      <publishTime>07/04/2018 17:03:27</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>07/04/2018 17:03:27</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/glyphicons-halflings-regulard41d.eot">
+      <publishTime>07/04/2018 17:03:27</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/Material-Design-Iconic-Fontd1f1.ttf">
+      <publishTime>06/08/2018 14:14:44</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff">
+      <publishTime>06/08/2018 14:14:45</publishTime>
+    </File>
+    <File Include="wwwroot/fonts/Material-Design-Iconic-Fontd1f1.woff2">
+      <publishTime>06/08/2018 14:14:46</publishTime>
+    </File>
+    <File Include="wwwroot/Hotel.WebPortal.styles.css">
+      <publishTime>02/14/2024 08:16:28</publishTime>
+    </File>
+    <File Include="wwwroot/img/banner/1.jpg">
+      <publishTime>06/08/2018 15:03:59</publishTime>
+    </File>
+    <File Include="wwwroot/img/banner/2.jpg">
+      <publishTime>06/08/2018 15:03:59</publishTime>
+    </File>
+    <File Include="wwwroot/img/banner/3.jpg">
+      <publishTime>06/08/2018 15:04:00</publishTime>
+    </File>
+    <File Include="wwwroot/img/banner/4.jpg">
+      <publishTime>06/08/2018 15:04:00</publishTime>
+    </File>
+    <File Include="wwwroot/img/bg/1.jpg">
+      <publishTime>06/08/2018 15:04:03</publishTime>
+    </File>
+    <File Include="wwwroot/img/bg/2.jpg">
+      <publishTime>06/08/2018 15:04:03</publishTime>
+    </File>
+    <File Include="wwwroot/img/bg/3.jpg">
+      <publishTime>06/08/2018 15:04:06</publishTime>
+    </File>
+    <File Include="wwwroot/img/bg/5.jpg">
+      <publishTime>07/04/2018 17:03:33</publishTime>
+    </File>
+    <File Include="wwwroot/img/blog/1.jpg">
+      <publishTime>06/08/2018 15:04:04</publishTime>
+    </File>
+    <File Include="wwwroot/img/blog/2.jpg">
+      <publishTime>06/08/2018 15:04:05</publishTime>
+    </File>
+    <File Include="wwwroot/img/blog/3.jpg">
+      <publishTime>06/08/2018 15:04:06</publishTime>
+    </File>
+    <File Include="wwwroot/img/client/1-hover.png">
+      <publishTime>06/08/2018 15:04:07</publishTime>
+    </File>
+    <File Include="wwwroot/img/client/1.png">
+      <publishTime>06/08/2018 15:04:07</publishTime>
+    </File>
+    <File Include="wwwroot/img/client/2-hover.png">
+      <publishTime>06/08/2018 15:04:07</publishTime>
+    </File>
+    <File Include="wwwroot/img/client/2.png">
+      <publishTime>06/08/2018 15:04:07</publishTime>
+    </File>
+    <File Include="wwwroot/img/client/3-hover.png">
+      <publishTime>06/08/2018 15:04:08</publishTime>
+    </File>
+    <File Include="wwwroot/img/client/3.png">
+      <publishTime>06/08/2018 15:04:08</publishTime>
+    </File>
+    <File Include="wwwroot/img/client/4-hover.png">
+      <publishTime>06/08/2018 15:04:08</publishTime>
+    </File>
+    <File Include="wwwroot/img/client/4.png">
+      <publishTime>06/08/2018 15:04:08</publishTime>
+    </File>
+    <File Include="wwwroot/img/client/5-hover.png">
+      <publishTime>06/08/2018 15:04:09</publishTime>
+    </File>
+    <File Include="wwwroot/img/client/5.png">
+      <publishTime>06/08/2018 15:04:09</publishTime>
+    </File>
+    <File Include="wwwroot/img/event/1.jpg">
+      <publishTime>06/08/2018 15:04:10</publishTime>
+    </File>
+    <File Include="wwwroot/img/event/2.jpg">
+      <publishTime>06/08/2018 15:04:10</publishTime>
+    </File>
+    <File Include="wwwroot/img/event/3.jpg">
+      <publishTime>06/08/2018 15:04:11</publishTime>
+    </File>
+    <File Include="wwwroot/img/event/4.jpg">
+      <publishTime>06/08/2018 15:04:12</publishTime>
+    </File>
+    <File Include="wwwroot/img/event/5.jpg">
+      <publishTime>06/08/2018 15:04:12</publishTime>
+    </File>
+    <File Include="wwwroot/img/event/6.jpg">
+      <publishTime>06/08/2018 15:04:13</publishTime>
+    </File>
+    <File Include="wwwroot/img/favicon.ico">
+      <publishTime>06/08/2018 14:14:47</publishTime>
+    </File>
+    <File Include="wwwroot/img/footer/1.jpg">
+      <publishTime>06/08/2018 15:04:13</publishTime>
+    </File>
+    <File Include="wwwroot/img/footer/2.jpg">
+      <publishTime>06/08/2018 15:04:14</publishTime>
+    </File>
+    <File Include="wwwroot/img/footer/3.jpg">
+      <publishTime>06/08/2018 15:04:14</publishTime>
+    </File>
+    <File Include="wwwroot/img/footer/4.jpg">
+      <publishTime>06/08/2018 15:04:14</publishTime>
+    </File>
+    <File Include="wwwroot/img/footer/5.jpg">
+      <publishTime>06/08/2018 15:04:15</publishTime>
+    </File>
+    <File Include="wwwroot/img/footer/6.jpg">
+      <publishTime>06/08/2018 15:04:15</publishTime>
+    </File>
+    <File Include="wwwroot/img/gallery/1.jpg">
+      <publishTime>06/08/2018 15:04:16</publishTime>
+    </File>
+    <File Include="wwwroot/img/gallery/2.jpg">
+      <publishTime>06/08/2018 15:04:18</publishTime>
+    </File>
+    <File Include="wwwroot/img/gallery/3.jpg">
+      <publishTime>06/08/2018 15:04:17</publishTime>
+    </File>
+    <File Include="wwwroot/img/gallery/4.jpg">
+      <publishTime>06/08/2018 15:04:19</publishTime>
+    </File>
+    <File Include="wwwroot/img/gallery/5.jpg">
+      <publishTime>06/08/2018 15:04:19</publishTime>
+    </File>
+    <File Include="wwwroot/img/gallery/6.jpg">
+      <publishTime>06/08/2018 15:04:19</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/conference-hover.png">
+      <publishTime>06/08/2018 15:04:20</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/conference.png">
+      <publishTime>06/08/2018 15:04:20</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/link-hover.png">
+      <publishTime>06/08/2018 15:04:21</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/link.png">
+      <publishTime>06/08/2018 15:04:21</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/restaurent-hover.png">
+      <publishTime>06/08/2018 15:04:22</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/restaurent.png">
+      <publishTime>06/08/2018 15:04:23</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/search-hover.png">
+      <publishTime>06/08/2018 15:04:23</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/search.png">
+      <publishTime>06/08/2018 15:04:23</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/spa-hover.png">
+      <publishTime>06/08/2018 15:04:24</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/spa.png">
+      <publishTime>06/08/2018 15:04:24</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/swim-hover.png">
+      <publishTime>06/08/2018 15:04:25</publishTime>
+    </File>
+    <File Include="wwwroot/img/icon/swim.png">
+      <publishTime>06/08/2018 15:04:25</publishTime>
+    </File>
+    <File Include="wwwroot/img/location/1.jpg">
+      <publishTime>06/08/2018 15:04:26</publishTime>
+    </File>
+    <File Include="wwwroot/img/location/2.jpg">
+      <publishTime>06/08/2018 15:04:26</publishTime>
+    </File>
+    <File Include="wwwroot/img/location/3.jpg">
+      <publishTime>06/08/2018 15:04:26</publishTime>
+    </File>
+    <File Include="wwwroot/img/location/4.jpg">
+      <publishTime>06/08/2018 15:04:27</publishTime>
+    </File>
+    <File Include="wwwroot/img/location/5.jpg">
+      <publishTime>06/08/2018 15:04:27</publishTime>
+    </File>
+    <File Include="wwwroot/img/location/6.jpg">
+      <publishTime>06/08/2018 15:04:28</publishTime>
+    </File>
+    <File Include="wwwroot/img/logo/footer-logo.png">
+      <publishTime>06/08/2018 15:04:28</publishTime>
+    </File>
+    <File Include="wwwroot/img/logo/logo.png">
+      <publishTime>06/08/2018 15:04:29</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/1.jpg">
+      <publishTime>06/08/2018 15:04:29</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/10.jpg">
+      <publishTime>06/08/2018 15:04:29</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/11.jpg">
+      <publishTime>06/08/2018 15:04:32</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/12.jpg">
+      <publishTime>06/08/2018 15:04:30</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/13.jpg">
+      <publishTime>06/08/2018 15:04:31</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/14.jpg">
+      <publishTime>06/08/2018 15:04:32</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/15.jpg">
+      <publishTime>06/08/2018 15:04:32</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/2.jpg">
+      <publishTime>06/08/2018 15:04:33</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/3.jpg">
+      <publishTime>06/08/2018 15:04:35</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/4.jpg">
+      <publishTime>06/08/2018 15:04:36</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/5.jpg">
+      <publishTime>06/08/2018 15:04:38</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/6.jpg">
+      <publishTime>06/08/2018 15:04:37</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/7.jpg">
+      <publishTime>06/08/2018 15:04:37</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/8.jpg">
+      <publishTime>06/08/2018 15:04:38</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/9.jpg">
+      <publishTime>06/08/2018 15:04:40</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/l-1.jpg">
+      <publishTime>06/08/2018 15:04:39</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/l-2.jpg">
+      <publishTime>06/08/2018 15:04:41</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/l-3.jpg">
+      <publishTime>06/08/2018 15:04:41</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/l-4.jpg">
+      <publishTime>06/08/2018 15:04:42</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/l-5.jpg">
+      <publishTime>06/08/2018 15:04:42</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/s-1.jpg">
+      <publishTime>06/08/2018 15:04:43</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/s-2.jpg">
+      <publishTime>06/08/2018 15:04:43</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/s-3.jpg">
+      <publishTime>06/08/2018 15:04:44</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/s-4.jpg">
+      <publishTime>06/08/2018 15:04:44</publishTime>
+    </File>
+    <File Include="wwwroot/img/room/s-5.jpg">
+      <publishTime>06/08/2018 15:04:44</publishTime>
+    </File>
+    <File Include="wwwroot/img/sidebar/1.jpg">
+      <publishTime>06/08/2018 15:04:45</publishTime>
+    </File>
+    <File Include="wwwroot/img/sidebar/2.jpg">
+      <publishTime>06/08/2018 15:04:45</publishTime>
+    </File>
+    <File Include="wwwroot/img/sidebar/3.jpg">
+      <publishTime>06/08/2018 15:04:45</publishTime>
+    </File>
+    <File Include="wwwroot/img/slider/1.jpg">
+      <publishTime>06/08/2018 15:04:46</publishTime>
+    </File>
+    <File Include="wwwroot/img/slider/2.jpg">
+      <publishTime>06/08/2018 15:04:47</publishTime>
+    </File>
+    <File Include="wwwroot/img/team/1.jpg">
+      <publishTime>06/08/2018 15:04:54</publishTime>
+    </File>
+    <File Include="wwwroot/img/team/2.jpg">
+      <publishTime>06/08/2018 15:04:55</publishTime>
+    </File>
+    <File Include="wwwroot/img/team/3.jpg">
+      <publishTime>06/08/2018 15:04:56</publishTime>
+    </File>
+    <File Include="wwwroot/img/team/4.jpg">
+      <publishTime>06/08/2018 15:04:56</publishTime>
+    </File>
+    <File Include="wwwroot/img/team/5.jpg">
+      <publishTime>06/08/2018 15:04:57</publishTime>
+    </File>
+    <File Include="wwwroot/js/ajax-mail.js">
+      <publishTime>06/08/2018 14:14:49</publishTime>
+    </File>
+    <File Include="wwwroot/js/bootstrap.min.js">
+      <publishTime>06/08/2018 14:14:49</publishTime>
+    </File>
+    <File Include="wwwroot/js/imagesloaded.pkgd.min.js">
+      <publishTime>06/08/2018 14:14:49</publishTime>
+    </File>
+    <File Include="wwwroot/js/isotope.pkgd.min.js">
+      <publishTime>06/08/2018 14:14:50</publishTime>
+    </File>
+    <File Include="wwwroot/js/jquery.ajaxchimp.min.js">
+      <publishTime>06/08/2018 14:14:50</publishTime>
+    </File>
+    <File Include="wwwroot/js/jquery.counterup.min.js">
+      <publishTime>06/08/2018 14:14:51</publishTime>
+    </File>
+    <File Include="wwwroot/js/jquery.magnific-popup.js">
+      <publishTime>06/08/2018 14:14:51</publishTime>
+    </File>
+    <File Include="wwwroot/js/jquery.meanmenu.js">
+      <publishTime>06/08/2018 14:14:51</publishTime>
+    </File>
+    <File Include="wwwroot/js/main.js">
+      <publishTime>02/14/2024 08:08:03</publishTime>
+    </File>
+    <File Include="wwwroot/js/owl.carousel.min.js">
+      <publishTime>06/08/2018 14:14:52</publishTime>
+    </File>
+    <File Include="wwwroot/js/plugins.js">
+      <publishTime>06/08/2018 14:14:52</publishTime>
+    </File>
+    <File Include="wwwroot/js/vendor/jquery-1.12.4.min.js">
+      <publishTime>06/08/2018 15:04:57</publishTime>
+    </File>
+    <File Include="wwwroot/js/vendor/modernizr-2.8.3.min.js">
+      <publishTime>06/08/2018 15:04:57</publishTime>
+    </File>
+    <File Include="wwwroot/js/waypoints.min.js">
+      <publishTime>06/08/2018 14:14:52</publishTime>
+    </File>
+    <File Include="wwwroot/style.css">
+      <publishTime>06/08/2018 14:03:21</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
