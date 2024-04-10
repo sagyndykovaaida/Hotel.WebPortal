@@ -9,6 +9,17 @@
       "Hotel.WebPortal/1.0.0": {
         "runtime": {
           "Hotel.WebPortal.dll": {}
+        },
+        "resources": {
+          "en/Hotel.WebPortal.resources.dll": {
+            "locale": "en"
+          },
+          "kk/Hotel.WebPortal.resources.dll": {
+            "locale": "kk"
+          },
+          "ru/Hotel.WebPortal.resources.dll": {
+            "locale": "ru"
+          }
         }
       }
     }

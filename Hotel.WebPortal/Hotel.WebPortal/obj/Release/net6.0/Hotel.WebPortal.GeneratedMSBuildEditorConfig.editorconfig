@@ -9,49 +9,73 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Hotel.WebPortal
 build_property.RootNamespace = Hotel.WebPortal
-build_property.ProjectDir = C:\Users\Aliev\OneDrive\Рабочий стол\HotelWebPortal\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal\
+build_property.ProjectDir = C:\Users\Aliev\OneDrive\Рабочий стол\newCS\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Aliev\OneDrive\Рабочий стол\HotelWebPortal\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal
+build_property.MSBuildProjectDirectory = C:\Users\Aliev\OneDrive\Рабочий стол\newCS\Hotel.WebPortal\Hotel.WebPortal\Hotel.WebPortal
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Aliev/OneDrive/Рабочий стол/HotelWebPortal/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Home/Index.cshtml]
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Event/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXZlbnRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aliev/OneDrive/Рабочий стол/HotelWebPortal/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Home/Privacy.cshtml]
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aliev/OneDrive/Рабочий стол/HotelWebPortal/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Room/Details.cshtml]
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Location/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTG9jYXRpb25cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Room/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aliev/OneDrive/Рабочий стол/HotelWebPortal/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Room/List.cshtml]
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Room/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUm9vbVxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aliev/OneDrive/Рабочий стол/HotelWebPortal/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/Error.cshtml]
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbnRhY3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aliev/OneDrive/Рабочий стол/HotelWebPortal/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/_HomeLayout.cshtml]
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/_HomeLayout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Ib21lTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aliev/OneDrive/Рабочий стол/HotelWebPortal/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/_MainMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9NYWluTWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/_MobileMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Nb2JpbGVNZW51LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aliev/OneDrive/Рабочий стол/HotelWebPortal/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/_ViewImports.cshtml]
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Team/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVhbVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aliev/OneDrive/Рабочий стол/HotelWebPortal/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/_ViewStart.cshtml]
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Aliev/OneDrive/Рабочий стол/HotelWebPortal/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/_Layout.cshtml]
+[C:/Users/Aliev/OneDrive/Рабочий стол/newCS/Hotel.WebPortal/Hotel.WebPortal/Hotel.WebPortal/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-gmoaisvyx3

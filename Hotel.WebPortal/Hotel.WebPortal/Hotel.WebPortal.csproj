@@ -8,9 +8,17 @@
 
   <ItemGroup>
     <Compile Remove="Views\Новая папка1\**" />
+    <Compile Remove="Новая папка1\**" />
+    <Compile Remove="Новая папка\**" />
     <Content Remove="Views\Новая папка1\**" />
+    <Content Remove="Новая папка1\**" />
+    <Content Remove="Новая папка\**" />
     <EmbeddedResource Remove="Views\Новая папка1\**" />
+    <EmbeddedResource Remove="Новая папка1\**" />
+    <EmbeddedResource Remove="Новая папка\**" />
     <None Remove="Views\Новая папка1\**" />
+    <None Remove="Новая папка1\**" />
+    <None Remove="Новая папка\**" />
   </ItemGroup>
 
   <ItemGroup>

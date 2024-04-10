@@ -12,43 +12,23 @@
             <li>@Html.ActionLink("ROOM DETAILS","Details", "Room")</li>
         </ul>
     </li>
-    <li>
-        <a href="#">ACTIVITIES</a>
-        <ul class="submenu megamenu">
-            <li>
-                <a href="#">Megamenu List</a>
-                <ul>
-                    <li>@Html.ActionLink("Location","Index", "Location")</li>
-                    <li><a href="room-grid.html">Room Grid</a></li>
-                    <li><a href="room-list.html">Room List</a></li>
-                    <li><a href="room-details.html">Room Details</a></li>
-                    <li><a href="#">Mega menu</a></li>
-                </ul>
-            </li>
-            <li>
-                <a href="#">Megamenu List</a>
-                <ul>
-                    <li><a href="event.html">Event</a></li>
-                    <li><a href="#">Mega menu</a></li>
-                    <li><a href="contact.html">Contact</a></li>
-                    <li><a href="team.html">Team</a></li>
-                    <li><a href="#">Mega menu</a></li>
-                </ul>
-            </li>
-            <li>
-                <a href="#">Megamenu List</a>
-                <ul>
-                    <li>@Html.ActionLink("ROOM LIST","List", "Room")</li>
-                    <li><a href="#">Mega menu</a></li>
-                    <li><a href="room-grid.html">Room Grid</a></li>
-                    <li><a href="room-details.html">Room Details</a></li>
-                    <li><a href="#">Mega menu</a></li>
-                </ul>
-            </li>
-        </ul>
-    </li>
     <li>@Html.ActionLink("LOCATION","Index", "Location")</li>
     <li>@Html.ActionLink("EVENT","Index", "Event")</li>
     <li>@Html.ActionLink("TEAM","Index", "Team")</li>
     <li><a asp-action="Contact" asp-controller="Home">CONTACT</a></li>
+    <li>
+        @if (User.Identity.IsAuthenticated)
+        {
+            <a asp-action="Logout" asp-controller="Home">
+                @User.Identity.Name | LOGOUT
+            </a>
+        }
+        else
+        {
+            <a asp-action="Login" asp-controller="Home">
+              Login
+            </a>
+            
+        }
+    </li>
 </ul>

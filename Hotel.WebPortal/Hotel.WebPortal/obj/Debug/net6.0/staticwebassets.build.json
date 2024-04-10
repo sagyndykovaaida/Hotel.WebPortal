@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "i2ezWEEwSMIzN1yz5drvYGqx0IFbKISrmlLBIJxzwxA=",
+  "Hash": "MHTZfCNLYAjUC45dnrHLFFcrFj2SAUmKci5HRpIycNE=",
   "Source": "Hotel.WebPortal",
   "BasePath": "_content/Hotel.WebPortal",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "Hotel.WebPortal\\wwwroot",
       "Source": "Hotel.WebPortal",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hotel.WebPortal.styles.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hotel.WebPortal.styles.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\bundle\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "Hotel.WebPortal.styles.css",
       "AssetKind": "All",
@@ -31,13 +31,13 @@
       "AssetTraitValue": "ApplicationBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hotel.WebPortal.styles.css"
+      "OriginalItemSpec": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\bundle\\Hotel.WebPortal.styles.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.WebPortal.bundle.scp.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.WebPortal.bundle.scp.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Computed",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "Hotel.WebPortal.bundle.scp.css",
       "AssetKind": "All",
@@ -48,13 +48,13 @@
       "AssetTraitValue": "ProjectBundle",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.WebPortal.bundle.scp.css"
+      "OriginalItemSpec": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Hotel.WebPortal.bundle.scp.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\animate.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\animate.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/animate.css",
       "AssetKind": "All",
@@ -68,10 +68,10 @@
       "OriginalItemSpec": "wwwroot\\css\\animate.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\bootstrap.min.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\bootstrap.min.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/bootstrap.min.css",
       "AssetKind": "All",
@@ -85,10 +85,10 @@
       "OriginalItemSpec": "wwwroot\\css\\bootstrap.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\font-awesome.min.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\font-awesome.min.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/font-awesome.min.css",
       "AssetKind": "All",
@@ -102,10 +102,10 @@
       "OriginalItemSpec": "wwwroot\\css\\font-awesome.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\magnific-popup.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\magnific-popup.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/magnific-popup.css",
       "AssetKind": "All",
@@ -119,10 +119,10 @@
       "OriginalItemSpec": "wwwroot\\css\\magnific-popup.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\material-design-iconic-font.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\material-design-iconic-font.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/material-design-iconic-font.css",
       "AssetKind": "All",
@@ -136,10 +136,10 @@
       "OriginalItemSpec": "wwwroot\\css\\material-design-iconic-font.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\material-design-iconic-font.min.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\material-design-iconic-font.min.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/material-design-iconic-font.min.css",
       "AssetKind": "All",
@@ -153,10 +153,10 @@
       "OriginalItemSpec": "wwwroot\\css\\material-design-iconic-font.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\meanmenu.min.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\meanmenu.min.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/meanmenu.min.css",
       "AssetKind": "All",
@@ -170,10 +170,10 @@
       "OriginalItemSpec": "wwwroot\\css\\meanmenu.min.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\owl.carousel.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\owl.carousel.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/owl.carousel.css",
       "AssetKind": "All",
@@ -187,10 +187,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.carousel.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\owl.video.play.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\owl.video.play.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/owl.video.play.png",
       "AssetKind": "All",
@@ -204,10 +204,10 @@
       "OriginalItemSpec": "wwwroot\\css\\owl.video.play.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\responsive.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\responsive.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/responsive.css",
       "AssetKind": "All",
@@ -221,10 +221,10 @@
       "OriginalItemSpec": "wwwroot\\css\\responsive.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\shortcode\\default.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\shortcode\\default.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/shortcode/default.css",
       "AssetKind": "All",
@@ -238,10 +238,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcode\\default.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\shortcode\\footer.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\shortcode\\footer.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/shortcode/footer.css",
       "AssetKind": "All",
@@ -255,10 +255,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcode\\footer.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\shortcode\\header.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\shortcode\\header.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/shortcode/header.css",
       "AssetKind": "All",
@@ -272,10 +272,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcode\\header.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\shortcode\\shortcodes.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\shortcode\\shortcodes.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/shortcode/shortcodes.css",
       "AssetKind": "All",
@@ -289,10 +289,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcode\\shortcodes.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\shortcode\\slider.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\shortcode\\slider.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/shortcode/slider.css",
       "AssetKind": "All",
@@ -306,10 +306,10 @@
       "OriginalItemSpec": "wwwroot\\css\\shortcode\\slider.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\slick.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\css\\slick.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "css/slick.css",
       "AssetKind": "All",
@@ -323,10 +323,10 @@
       "OriginalItemSpec": "wwwroot\\css\\slick.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfont3e6e.eot",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/fontawesome-webfont3e6e.eot",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont3e6e.eot"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfont3e6e.svg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/fontawesome-webfont3e6e.svg",
       "AssetKind": "All",
@@ -357,10 +357,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont3e6e.svg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfont3e6e.ttf",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/fontawesome-webfont3e6e.ttf",
       "AssetKind": "All",
@@ -374,10 +374,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont3e6e.ttf"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/fontawesome-webfont3e6e.woff",
       "AssetKind": "All",
@@ -391,10 +391,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont3e6e.woff"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfont3e6e.woff2",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/fontawesome-webfont3e6e.woff2",
       "AssetKind": "All",
@@ -408,10 +408,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfont3e6e.woff2"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\fontawesome-webfontd41d.eot",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/fontawesome-webfontd41d.eot",
       "AssetKind": "All",
@@ -425,10 +425,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\fontawesome-webfontd41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/glyphicons-halflings-regular.eot",
       "AssetKind": "All",
@@ -442,10 +442,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.eot"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/glyphicons-halflings-regular.svg",
       "AssetKind": "All",
@@ -459,10 +459,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.svg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/glyphicons-halflings-regular.ttf",
       "AssetKind": "All",
@@ -476,10 +476,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.ttf"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/glyphicons-halflings-regular.woff",
       "AssetKind": "All",
@@ -493,10 +493,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/glyphicons-halflings-regular.woff2",
       "AssetKind": "All",
@@ -510,10 +510,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regular.woff2"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regulard41d.eot",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\glyphicons-halflings-regulard41d.eot",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/glyphicons-halflings-regulard41d.eot",
       "AssetKind": "All",
@@ -527,10 +527,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\glyphicons-halflings-regulard41d.eot"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.ttf",
       "AssetKind": "All",
@@ -544,10 +544,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.ttf"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.woff",
       "AssetKind": "All",
@@ -561,10 +561,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "fonts/Material-Design-Iconic-Fontd1f1.woff2",
       "AssetKind": "All",
@@ -578,10 +578,10 @@
       "OriginalItemSpec": "wwwroot\\fonts\\Material-Design-Iconic-Fontd1f1.woff2"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\banner\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\banner\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/banner/1.jpg",
       "AssetKind": "All",
@@ -595,10 +595,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\banner\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\banner\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/banner/2.jpg",
       "AssetKind": "All",
@@ -612,10 +612,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\banner\\3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\banner\\3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/banner/3.jpg",
       "AssetKind": "All",
@@ -629,10 +629,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\banner\\4.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\banner\\4.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/banner/4.jpg",
       "AssetKind": "All",
@@ -646,10 +646,10 @@
       "OriginalItemSpec": "wwwroot\\img\\banner\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\bg\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\bg\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/bg/1.jpg",
       "AssetKind": "All",
@@ -663,10 +663,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\bg\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\bg\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/bg/2.jpg",
       "AssetKind": "All",
@@ -680,10 +680,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\bg\\3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\bg\\3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/bg/3.jpg",
       "AssetKind": "All",
@@ -697,10 +697,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\bg\\5.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\bg\\5.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/bg/5.jpg",
       "AssetKind": "All",
@@ -714,10 +714,10 @@
       "OriginalItemSpec": "wwwroot\\img\\bg\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\blog\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\blog\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/blog/1.jpg",
       "AssetKind": "All",
@@ -731,10 +731,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\blog\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\blog\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/blog/2.jpg",
       "AssetKind": "All",
@@ -748,10 +748,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\blog\\3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\blog\\3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/blog/3.jpg",
       "AssetKind": "All",
@@ -765,10 +765,10 @@
       "OriginalItemSpec": "wwwroot\\img\\blog\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\1.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\1.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/client/1.png",
       "AssetKind": "All",
@@ -782,10 +782,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client\\1.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\1-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\1-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/client/1-hover.png",
       "AssetKind": "All",
@@ -799,10 +799,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client\\1-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\2.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\2.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/client/2.png",
       "AssetKind": "All",
@@ -816,10 +816,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client\\2.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\2-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\2-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/client/2-hover.png",
       "AssetKind": "All",
@@ -833,10 +833,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client\\2-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\3.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\3.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/client/3.png",
       "AssetKind": "All",
@@ -850,10 +850,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client\\3.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\3-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\3-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/client/3-hover.png",
       "AssetKind": "All",
@@ -867,10 +867,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client\\3-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\4.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\4.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/client/4.png",
       "AssetKind": "All",
@@ -884,10 +884,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client\\4.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\4-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\4-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/client/4-hover.png",
       "AssetKind": "All",
@@ -901,10 +901,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client\\4-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\5.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\5.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/client/5.png",
       "AssetKind": "All",
@@ -918,10 +918,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client\\5.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\5-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\client\\5-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/client/5-hover.png",
       "AssetKind": "All",
@@ -935,10 +935,10 @@
       "OriginalItemSpec": "wwwroot\\img\\client\\5-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/event/1.jpg",
       "AssetKind": "All",
@@ -952,10 +952,10 @@
       "OriginalItemSpec": "wwwroot\\img\\event\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/event/2.jpg",
       "AssetKind": "All",
@@ -969,10 +969,10 @@
       "OriginalItemSpec": "wwwroot\\img\\event\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/event/3.jpg",
       "AssetKind": "All",
@@ -986,10 +986,10 @@
       "OriginalItemSpec": "wwwroot\\img\\event\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\4.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\4.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/event/4.jpg",
       "AssetKind": "All",
@@ -1003,10 +1003,10 @@
       "OriginalItemSpec": "wwwroot\\img\\event\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\5.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\5.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/event/5.jpg",
       "AssetKind": "All",
@@ -1020,10 +1020,10 @@
       "OriginalItemSpec": "wwwroot\\img\\event\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\6.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\event\\6.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/event/6.jpg",
       "AssetKind": "All",
@@ -1037,10 +1037,10 @@
       "OriginalItemSpec": "wwwroot\\img\\event\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\favicon.ico",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\favicon.ico",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/favicon.ico",
       "AssetKind": "All",
@@ -1054,10 +1054,10 @@
       "OriginalItemSpec": "wwwroot\\img\\favicon.ico"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/footer/1.jpg",
       "AssetKind": "All",
@@ -1071,10 +1071,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/footer/2.jpg",
       "AssetKind": "All",
@@ -1088,10 +1088,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/footer/3.jpg",
       "AssetKind": "All",
@@ -1105,10 +1105,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\4.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\4.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/footer/4.jpg",
       "AssetKind": "All",
@@ -1122,10 +1122,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\5.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\5.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/footer/5.jpg",
       "AssetKind": "All",
@@ -1139,10 +1139,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\6.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\footer\\6.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/footer/6.jpg",
       "AssetKind": "All",
@@ -1156,10 +1156,10 @@
       "OriginalItemSpec": "wwwroot\\img\\footer\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/gallery/1.jpg",
       "AssetKind": "All",
@@ -1173,10 +1173,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gallery\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/gallery/2.jpg",
       "AssetKind": "All",
@@ -1190,10 +1190,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gallery\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/gallery/3.jpg",
       "AssetKind": "All",
@@ -1207,10 +1207,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gallery\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\4.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\4.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/gallery/4.jpg",
       "AssetKind": "All",
@@ -1224,10 +1224,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gallery\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\5.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\5.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/gallery/5.jpg",
       "AssetKind": "All",
@@ -1241,10 +1241,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gallery\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\6.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\gallery\\6.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/gallery/6.jpg",
       "AssetKind": "All",
@@ -1258,10 +1258,10 @@
       "OriginalItemSpec": "wwwroot\\img\\gallery\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\conference.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\conference.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/conference.png",
       "AssetKind": "All",
@@ -1275,10 +1275,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\conference.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\conference-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\conference-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/conference-hover.png",
       "AssetKind": "All",
@@ -1292,10 +1292,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\conference-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\link.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\link.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/link.png",
       "AssetKind": "All",
@@ -1309,10 +1309,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\link.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\link-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\link-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/link-hover.png",
       "AssetKind": "All",
@@ -1326,10 +1326,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\link-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\restaurent.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\restaurent.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/restaurent.png",
       "AssetKind": "All",
@@ -1343,10 +1343,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\restaurent.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\restaurent-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\restaurent-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/restaurent-hover.png",
       "AssetKind": "All",
@@ -1360,10 +1360,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\restaurent-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\search.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\search.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/search.png",
       "AssetKind": "All",
@@ -1377,10 +1377,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\search.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\search-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\search-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/search-hover.png",
       "AssetKind": "All",
@@ -1394,10 +1394,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\search-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\spa.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\spa.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/spa.png",
       "AssetKind": "All",
@@ -1411,10 +1411,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\spa.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\spa-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\spa-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/spa-hover.png",
       "AssetKind": "All",
@@ -1428,10 +1428,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\spa-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\swim.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\swim.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/swim.png",
       "AssetKind": "All",
@@ -1445,10 +1445,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\swim.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\swim-hover.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\icon\\swim-hover.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/icon/swim-hover.png",
       "AssetKind": "All",
@@ -1462,10 +1462,10 @@
       "OriginalItemSpec": "wwwroot\\img\\icon\\swim-hover.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/location/1.jpg",
       "AssetKind": "All",
@@ -1479,10 +1479,10 @@
       "OriginalItemSpec": "wwwroot\\img\\location\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/location/2.jpg",
       "AssetKind": "All",
@@ -1496,10 +1496,10 @@
       "OriginalItemSpec": "wwwroot\\img\\location\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/location/3.jpg",
       "AssetKind": "All",
@@ -1513,10 +1513,10 @@
       "OriginalItemSpec": "wwwroot\\img\\location\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\4.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\4.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/location/4.jpg",
       "AssetKind": "All",
@@ -1530,10 +1530,10 @@
       "OriginalItemSpec": "wwwroot\\img\\location\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\5.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\5.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/location/5.jpg",
       "AssetKind": "All",
@@ -1547,10 +1547,10 @@
       "OriginalItemSpec": "wwwroot\\img\\location\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\6.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\location\\6.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/location/6.jpg",
       "AssetKind": "All",
@@ -1564,10 +1564,10 @@
       "OriginalItemSpec": "wwwroot\\img\\location\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\logo\\footer-logo.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\logo\\footer-logo.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/logo/footer-logo.png",
       "AssetKind": "All",
@@ -1581,10 +1581,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo\\footer-logo.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\logo\\logo.png",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\logo\\logo.png",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/logo/logo.png",
       "AssetKind": "All",
@@ -1598,10 +1598,10 @@
       "OriginalItemSpec": "wwwroot\\img\\logo\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/1.jpg",
       "AssetKind": "All",
@@ -1615,10 +1615,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\10.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\10.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/10.jpg",
       "AssetKind": "All",
@@ -1632,10 +1632,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\10.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\11.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\11.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/11.jpg",
       "AssetKind": "All",
@@ -1649,10 +1649,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\11.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\12.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\12.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/12.jpg",
       "AssetKind": "All",
@@ -1666,10 +1666,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\12.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\13.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\13.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/13.jpg",
       "AssetKind": "All",
@@ -1683,10 +1683,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\13.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\14.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\14.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/14.jpg",
       "AssetKind": "All",
@@ -1700,10 +1700,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\14.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\15.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\15.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/15.jpg",
       "AssetKind": "All",
@@ -1717,10 +1717,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\15.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/2.jpg",
       "AssetKind": "All",
@@ -1734,10 +1734,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/3.jpg",
       "AssetKind": "All",
@@ -1751,10 +1751,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\4.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\4.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/4.jpg",
       "AssetKind": "All",
@@ -1768,10 +1768,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\5.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\5.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/5.jpg",
       "AssetKind": "All",
@@ -1785,10 +1785,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\6.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\6.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/6.jpg",
       "AssetKind": "All",
@@ -1802,10 +1802,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\6.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\7.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\7.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/7.jpg",
       "AssetKind": "All",
@@ -1819,10 +1819,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\7.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\8.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\8.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/8.jpg",
       "AssetKind": "All",
@@ -1836,10 +1836,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\8.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\9.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\9.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/9.jpg",
       "AssetKind": "All",
@@ -1853,10 +1853,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\9.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\l-1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\l-1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/l-1.jpg",
       "AssetKind": "All",
@@ -1870,10 +1870,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\l-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\l-2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\l-2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/l-2.jpg",
       "AssetKind": "All",
@@ -1887,10 +1887,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\l-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\l-3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\l-3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/l-3.jpg",
       "AssetKind": "All",
@@ -1904,10 +1904,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\l-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\l-4.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\l-4.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/l-4.jpg",
       "AssetKind": "All",
@@ -1921,10 +1921,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\l-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\l-5.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\l-5.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/l-5.jpg",
       "AssetKind": "All",
@@ -1938,10 +1938,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\l-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\s-1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\s-1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/s-1.jpg",
       "AssetKind": "All",
@@ -1955,10 +1955,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\s-1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\s-2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\s-2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/s-2.jpg",
       "AssetKind": "All",
@@ -1972,10 +1972,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\s-2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\s-3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\s-3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/s-3.jpg",
       "AssetKind": "All",
@@ -1989,10 +1989,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\s-3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\s-4.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\s-4.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/s-4.jpg",
       "AssetKind": "All",
@@ -2006,10 +2006,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\s-4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\s-5.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\room\\s-5.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/room/s-5.jpg",
       "AssetKind": "All",
@@ -2023,10 +2023,10 @@
       "OriginalItemSpec": "wwwroot\\img\\room\\s-5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\sidebar\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\sidebar\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/sidebar/1.jpg",
       "AssetKind": "All",
@@ -2040,10 +2040,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sidebar\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\sidebar\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\sidebar\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/sidebar/2.jpg",
       "AssetKind": "All",
@@ -2057,10 +2057,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sidebar\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\sidebar\\3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\sidebar\\3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/sidebar/3.jpg",
       "AssetKind": "All",
@@ -2074,10 +2074,10 @@
       "OriginalItemSpec": "wwwroot\\img\\sidebar\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\slider\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\slider\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/slider/1.jpg",
       "AssetKind": "All",
@@ -2091,10 +2091,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slider\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\slider\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\slider\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/slider/2.jpg",
       "AssetKind": "All",
@@ -2108,10 +2108,10 @@
       "OriginalItemSpec": "wwwroot\\img\\slider\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\team\\1.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\team\\1.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/team/1.jpg",
       "AssetKind": "All",
@@ -2125,10 +2125,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\1.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\team\\2.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\team\\2.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/team/2.jpg",
       "AssetKind": "All",
@@ -2142,10 +2142,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\2.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\team\\3.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\team\\3.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/team/3.jpg",
       "AssetKind": "All",
@@ -2159,10 +2159,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\3.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\team\\4.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\team\\4.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/team/4.jpg",
       "AssetKind": "All",
@@ -2176,10 +2176,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\4.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\team\\5.jpg",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\img\\team\\5.jpg",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "img/team/5.jpg",
       "AssetKind": "All",
@@ -2193,10 +2193,10 @@
       "OriginalItemSpec": "wwwroot\\img\\team\\5.jpg"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\ajax-mail.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\ajax-mail.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/ajax-mail.js",
       "AssetKind": "All",
@@ -2210,10 +2210,10 @@
       "OriginalItemSpec": "wwwroot\\js\\ajax-mail.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\bootstrap.min.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\bootstrap.min.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/bootstrap.min.js",
       "AssetKind": "All",
@@ -2227,10 +2227,10 @@
       "OriginalItemSpec": "wwwroot\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\imagesloaded.pkgd.min.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\imagesloaded.pkgd.min.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/imagesloaded.pkgd.min.js",
       "AssetKind": "All",
@@ -2244,10 +2244,10 @@
       "OriginalItemSpec": "wwwroot\\js\\imagesloaded.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\isotope.pkgd.min.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\isotope.pkgd.min.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/isotope.pkgd.min.js",
       "AssetKind": "All",
@@ -2261,10 +2261,10 @@
       "OriginalItemSpec": "wwwroot\\js\\isotope.pkgd.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\jquery.ajaxchimp.min.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\jquery.ajaxchimp.min.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/jquery.ajaxchimp.min.js",
       "AssetKind": "All",
@@ -2278,10 +2278,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.ajaxchimp.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\jquery.counterup.min.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\jquery.counterup.min.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/jquery.counterup.min.js",
       "AssetKind": "All",
@@ -2295,10 +2295,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.counterup.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\jquery.magnific-popup.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\jquery.magnific-popup.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/jquery.magnific-popup.js",
       "AssetKind": "All",
@@ -2312,10 +2312,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.magnific-popup.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\jquery.meanmenu.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\jquery.meanmenu.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/jquery.meanmenu.js",
       "AssetKind": "All",
@@ -2329,10 +2329,10 @@
       "OriginalItemSpec": "wwwroot\\js\\jquery.meanmenu.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\main.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\main.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/main.js",
       "AssetKind": "All",
@@ -2346,10 +2346,10 @@
       "OriginalItemSpec": "wwwroot\\js\\main.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\owl.carousel.min.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\owl.carousel.min.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/owl.carousel.min.js",
       "AssetKind": "All",
@@ -2363,10 +2363,10 @@
       "OriginalItemSpec": "wwwroot\\js\\owl.carousel.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\plugins.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\plugins.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/plugins.js",
       "AssetKind": "All",
@@ -2380,10 +2380,10 @@
       "OriginalItemSpec": "wwwroot\\js\\plugins.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\vendor\\jquery-1.12.4.min.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/vendor/jquery-1.12.4.min.js",
       "AssetKind": "All",
@@ -2397,10 +2397,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\jquery-1.12.4.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\vendor\\modernizr-2.8.3.min.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\vendor\\modernizr-2.8.3.min.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/vendor/modernizr-2.8.3.min.js",
       "AssetKind": "All",
@@ -2414,10 +2414,10 @@
       "OriginalItemSpec": "wwwroot\\js\\vendor\\modernizr-2.8.3.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\waypoints.min.js",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\js\\waypoints.min.js",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "js/waypoints.min.js",
       "AssetKind": "All",
@@ -2431,10 +2431,10 @@
       "OriginalItemSpec": "wwwroot\\js\\waypoints.min.js"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\style.css",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\style.css",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "style.css",
       "AssetKind": "All",
@@ -2448,10 +2448,10 @@
       "OriginalItemSpec": "wwwroot\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\userFiles\\1lab.docx",
+      "Identity": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\userFiles\\1lab.docx",
       "SourceId": "Hotel.WebPortal",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\HotelWebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Aliev\\OneDrive\\Рабочий стол\\newCS\\Hotel.WebPortal\\Hotel.WebPortal\\Hotel.WebPortal\\wwwroot\\",
       "BasePath": "_content/Hotel.WebPortal",
       "RelativePath": "userFiles/1lab.docx",
       "AssetKind": "All",
