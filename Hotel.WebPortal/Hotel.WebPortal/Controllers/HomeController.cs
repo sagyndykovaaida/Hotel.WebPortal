@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Authentication;
 using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Options;
 using System.Diagnostics;
 using System.Globalization;
 using System.Security.Claims;
@@ -13,17 +14,34 @@ namespace Hotel.WebPortal.Controllers
     {
         private readonly ILogger<HomeController> _logger;
         private readonly IHttpContextAccessor _httpContext;
+        private  IConfiguration   _configuration;
+        private IOptions<APIEnpoint> _settings;
 
-        public HomeController(ILogger<HomeController> logger, IHttpContextAccessor httpContext)
+        public HomeController(ILogger<HomeController> logger, IHttpContextAccessor httpContext, 
+            IConfiguration configuration, IOptions<APIEnpoint> settings)
         {
             _logger = logger;
             _httpContext = httpContext;
+            _configuration = configuration;
+            _settings = settings;   
+
+
         }
         //[TimeElaps]
         [CatchError]
         public IActionResult Index(string culture)
         {
+
+
+            var data1 = _configuration
+                .GetSection("Middleware")
+                .GetValue<bool>("EnableConnectMiddleware");
+            
+            
+            
             throw new Exception(" error");
+
+
 
 
             if (!string.IsNullOrEmpty(culture))
@@ -45,8 +63,8 @@ namespace Hotel.WebPortal.Controllers
             _httpContext.HttpContext.Response.Cookies.Append("IIN2", "345423");
 
             //---------------
-            var data1 = Request.Cookies["IIN"];
-            var data2 = _httpContext.HttpContext.Request.Cookies["IIN2"];
+           /* var data1 = Request.Cookies["IIN"];
+            var data2 = _httpContext.HttpContext.Request.Cookies["IIN2"];*/
 
             //--------- delete cookies
 

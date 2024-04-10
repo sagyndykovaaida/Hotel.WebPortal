@@ -3,6 +3,10 @@ using Microsoft.AspNetCore.Authentication.Cookies;
 using Microsoft.AspNetCore.Mvc.Razor;
 using Microsoft.Extensions.Options;
 using System.Globalization;
+using System.Configuration;
+using Hotel.WebPortal;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Data.SqlClient;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -19,6 +23,8 @@ builder.Services.AddMvc(options =>
 
 builder.Services.Configure<RequestLocalizationOptions>(options =>
 {
+
+    builder.Services.Configure<APIEnpoint>(builder.Configuration.GetSection("APIEnpoint"));
     var supportedCulture = new[]
     {
         new CultureInfo("en-US"),
@@ -28,6 +34,12 @@ builder.Services.Configure<RequestLocalizationOptions>(options =>
     options.SupportedCultures = supportedCulture;
     options.SupportedUICultures = supportedCulture;
 });
+ 
+//connect to database
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection");
+builder.Services.AddDbContext<HotelAtrContext>(options => options.UseSqlServer(connectionString));
+
+
 
 builder.Services.AddLocalization(option => option.ResourcesPath = "Resources");
 builder.Services.AddHttpContextAccessor();
